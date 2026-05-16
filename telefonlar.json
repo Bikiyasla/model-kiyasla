@@ -1,0 +1,36 @@
+[
+  {
+    "model": "iPhone 17 Pro Max",
+    "marka": "Apple",
+    "temel_ozellikler": {
+      "ekran": "6.9 inç OLED, 120Hz",
+      "batarya": "4850 mAh",
+      "islemci": "Apple A19 Pro",
+      "kamera": "48 MP + 48 MP + 48 MP"
+    },
+    "otorite_puanlari": {
+      "antutu_performans": "2.250.000+",
+      "geekbench_single": "3450",
+      "geekbench_multi": "9200",
+      "dxomark_kamera": "162",
+      "dxomark_ekran": "158"
+    }
+  },
+  {
+    "model": "Galaxy S25 Ultra",
+    "marka": "Samsung",
+    "temel_ozellikler": {
+      "ekran": "6.8 inç Dynamic AMOLED 2X",
+      "batarya": "5000 mAh",
+      "islemci": "Snapdragon 8 Gen 4",
+      "kamera": "200 MP + 50 MP + 12 MP + 10 MP"
+    },
+    "otorite_puanlari": {
+      "antutu_performans": "2.400.000+",
+      "geekbench_single": "3100",
+      "geekbench_multi": "9600",
+      "dxomark_kamera": "160",
+      "dxomark_ekran": "161"
+    }
+  }
+]
