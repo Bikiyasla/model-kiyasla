@@ -32,22 +32,22 @@
       "dxomark_kamera": "160",
       "dxomark_ekran": "161"
     }
-  }
-{
+  },
+  {
     "model": "iPhone 16 Pro Max",
     "marka": "Apple",
     "temel_ozellikler": {
       "ekran": "6.9 inç OLED, 120Hz",
-      "batarya": "4850 mAh",
-      "islemci": "Apple A19 Pro",
-      "kamera": "48 MP + 48 MP + 48 MP"
+      "batarya": "4685 mAh",
+      "islemci": "Apple A18 Pro",
+      "kamera": "48 MP + 48 MP + 12 MP"
     },
     "otorite_puanlari": {
-      "antutu_performans": "2.250.000+",
-      "geekbench_single": "3450",
-      "geekbench_multi": "9200",
-      "dxomark_kamera": "162",
-      "dxomark_ekran": "158"
+      "antutu_performans": "1.950.000+",
+      "geekbench_single": "3010",
+      "geekbench_multi": "7200",
+      "dxomark_kamera": "157",
+      "dxomark_ekran": "150"
     }
   },
   {
@@ -56,15 +56,15 @@
     "temel_ozellikler": {
       "ekran": "6.8 inç Dynamic AMOLED 2X",
       "batarya": "5000 mAh",
-      "islemci": "Snapdragon 8 Gen 4",
+      "islemci": "Snapdragon 8 Gen 3",
       "kamera": "200 MP + 50 MP + 12 MP + 10 MP"
     },
     "otorite_puanlari": {
-      "antutu_performans": "2.400.000+",
-      "geekbench_single": "3100",
-      "geekbench_multi": "9600",
-      "dxomark_kamera": "160",
-      "dxomark_ekran": "161"
+      "antutu_performans": "1.810.000+",
+      "geekbench_single": "2300",
+      "geekbench_multi": "7000",
+      "dxomark_kamera": "144",
+      "dxomark_ekran": "155"
     }
-  },
+  }
 ]
